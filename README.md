@@ -12,6 +12,7 @@
 
 # Project
 
+I did this project for an online course on Udemy.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Development server
